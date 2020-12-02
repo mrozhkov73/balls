@@ -187,7 +187,7 @@ function draw() {
 
 //var interval = setInterval(draw, 10);
 
-    draw();
+    draw(); //Eto fignya dlya proverki
 
     ctx.beginPath();
     ctx.rect(160, 10, 100, 200);
